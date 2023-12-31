@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="21513" systemVersion="22D68" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Item" representedClassName="Item" syncable="YES" codeGenerationType="class">
+        <attribute name="background" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="backgroundtoggle" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="bgcolor" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="date1970" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="firstLaunch" optional="YES" attributeType="Boolean" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="realimage" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="textColor" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="topic" optional="YES" attributeType="String"/>
+        <attribute name="uuid" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="widgetBgColor" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="widgetTextColor" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <userInfo>
+            <entry key="0" value="value"/>
+        </userInfo>
+    </entity>
+</model>

@@ -1,6 +1,0 @@
-framework module Pods_CountdownClockTests {
-  umbrella header "Pods-CountdownClockTests-umbrella.h"
-
-  export *
-  module * { export * }
-}
